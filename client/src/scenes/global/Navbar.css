@@ -1,0 +1,30 @@
+.header__searchinput {
+    height: 13px;
+    padding: 14px;
+    margin: 12px;
+    border: none;
+    width: 900px;
+    display: flex;
+    /* flex: 1 1; */
+    /* align-items: center; */
+    border-radius: 24px;
+
+}
+
+.header_searchIcon {
+    padding: 5px;
+    height: 22px !important;
+    background-color: #cd9042;
+    border-radius: 10px solid;
+
+}
+
+.navbarcontainer {
+    display: "flex";
+    align-items: center;
+    justify-content: center;
+}
+
+.bag {
+    margin-bottom: 0.1px;
+}
